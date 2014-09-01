@@ -1,6 +1,6 @@
 ## This is a Markdown file
 
-#### Examples of Unordered Lists
+#### Example of an Unordered List
 * item
 * item
 * item
